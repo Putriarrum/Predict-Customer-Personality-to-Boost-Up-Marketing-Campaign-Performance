@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 ----
 
@@ -30,7 +29,6 @@ The goal of analyzing customer profiles and behaviors using clustering approach 
 - Determining effective business strategies from clustering results.
 <br>
 <br>
-<br>
 
 ---
 
@@ -40,8 +38,6 @@ Before performing data modeling, there are several stages of data pre-processing
 - **Unnecessary features** for the model will be **removed** to focus the data more.
 - Categorical features will be **encoded** to be processed by machine learning algorithms.
 - Feature **standardization** will be conducted to ensure uniform data scale and avoid bias in the model.
-<br>
-<br>
 <br>
 
 ### Modelling
@@ -53,14 +49,13 @@ After determining the optimal number of clusters, **clustering is performed usin
 <br>
 From the plot of the modeling results and data grouping using clustering methods, it is observed that **the formed clusters are well separated** and classify data into different groups. This indicates that the clustering algorithm used successfully distinguishes and categorizes data based on their characteristics.
 <br>
-<br>
-<br>
 
 ### Evaluation
 Evaluation of the model results using **Silhouette Score** recommends that the optimal number of clusters is 4. This recommendation is based on the fact that the Silhouette Score value for this number of clusters is the highest, which is 0.540. Silhouette Score is an evaluation metric that depicts how well objects within a cluster are grouped within their own dataset compared to other clusters. The higher the Silhouette Score value, the better the separation of these clusters.
 <br>
 <br>
-<br>
+
+---
 
 ## 📂 **STAGE 4: Customer Personality Analysis**
 Customer Personality Analysis aims to **understand the differences and similarities between these clusters, as well as identify unique characteristics that each group may possess**. With a deeper understanding of the characteristics among clusters, companies can take more appropriate actions and direct more specific business strategies for each customer group.
