@@ -4,8 +4,8 @@
 - **Tools** : Google Colabs<br>
 - **Programming Language** : Python <br>
 - **Dataset** : Rakamin Academy <br>
-- **Libraries** : Pandas, NumPy <br>
-- **Visualization** : Matplotlib, Seaborn <br>
+- **Libraries** : Pandas, NumPy, Sklearn <br>
+- **Visualization** : Matplotlib, Seaborn, yellow-brick <br>
 - **Dataset** : Disediakan oleh Rakamin Academy <br>
 - **Skillset** :  Analytical Thinking, Business understanding, Python Data Preprocessing, Machine Learning, Clustering<br>
 - **Notebook** : <br>
@@ -39,7 +39,6 @@ Before performing data modeling, there are several stages of data pre-processing
 - Categorical features will be **encoded** to be processed by machine learning algorithms.
 - Feature **standardization** will be conducted to ensure uniform data scale and avoid bias in the model.
 <br>
-
 ### Modelling
 After completing data pre-processing, the next step is to use the **Principal Component Analysis (PCA)** method. PCA is used to reduce the dimensionality of data while retaining significant information. By reducing the data dimensions, it can optimize model performance and address multicollinearity issues among features. Furthermore, an important step in this process is determining the best number of clusters. In this analysis, **Distortion Score and Elbow Method** are used to select the optimal number of clusters. Based on the analysis results, **the optimal number of clusters found is 4**.
 <br>
