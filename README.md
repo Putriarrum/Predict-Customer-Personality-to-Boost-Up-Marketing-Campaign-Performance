@@ -57,7 +57,7 @@ Evaluation of the model results using **Silhouette Score** recommends that the o
 
 ---
 
-## 📂 **STAGE 4: Customer Personality Analysis**
+## 📂 **ustomer Personality Analysis**
 Customer Personality Analysis aims to **understand the differences and similarities between these clusters, as well as identify unique characteristics that each group may possess**. With a deeper understanding of the characteristics among clusters, companies can take more appropriate actions and direct more specific business strategies for each customer group.
 <br>
 <br>
